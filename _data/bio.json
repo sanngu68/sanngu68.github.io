@@ -6,7 +6,7 @@
     "email": "snguyen2@hawaii.edu",
     "phone": "808-343-9929",
     "website": "https://sanngu68.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "1669 Ahiahi Pl Apt#7D",
       "postalCode": "96817",
@@ -24,6 +24,11 @@
         "network": "linkedin",
         "username": "Sang Nguyen",
         "url": "https://www.linkedin.com/in/sang-nguyen-0782801a0/"
+      },
+      {
+      "network": "instagram",
+        "username": "sing_but_past_tense",
+        "url": "https://www.instagram.com/sing_but_past_tense/"
       }
     ]
   },
