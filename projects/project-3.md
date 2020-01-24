@@ -1,61 +1,20 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/ICS111proj1header.png
+title: Dodgeball Java
+permalink: projects/dodgeball
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-09-16
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+summary: My first project: A dodgeball game I developed for ICS 111.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/ICS111proj1.PNG">
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This was the first project assigned to us in ICS 111 where we had to make a dodgeball game. We were required to make a hitbox around the player and the balls, such that if the ball made contact with the player, a counter for hits would increment. Once the counter reached 3 hits, the game was over.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+This was the first time I had the chance to use the EZLibrary that we were given, which made a lot of the project easy since the methods were given to us and we did not have to implement anything. While it was somewhat easy, there were a lot of things that I had yet to learn so it was a good time to learn about Java such as methods, classes, and objects. This serves as a good memory for me as I didn't really know much about what I was doing and realizing that I have improved a lot since then.
