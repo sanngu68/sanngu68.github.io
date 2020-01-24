@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cyberpatriotx.PNG
+image: images/cyberpatriotx.png
 title: CyberPatriot X
 permalink: projects/cyberpatriotx
 # All dates must be YYYY-MM-DD format!
@@ -18,4 +18,5 @@ Starting in my freshman year of high school, I was fortunate enough to take the 
 Alongside this, they had us participate in the CyberPatriot competition that was coming up that year and we were taught all the important steps to go through to ensure that we could get through each stage. Utilizing what we learned, we spent hours practicing for the first stage and when the actual competition started, my group did our best to progress through each stage. We made it through the first two stages but didn't progress through the State Round. Even though we didn't win, we thought that we did really well despite the groups that we competed against being much more experienced than we were. It was also during that time, I found that I really liked the whole aspect of cyber security enough to want to focus on it through college.
  
 About CyberPatriot: https://www.uscyberpatriot.org/Pages/About/What-is-CyberPatriot.aspx
+
 More information: https://www.uscyberpatriot.org/Pages/Competition/Season%20History/CyberPatriot-X.aspx
