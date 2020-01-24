@@ -5,7 +5,7 @@ image: images/ICS111proj3header.PNG
 title: Generic Spaceship Shooter
 permalink: projects/spaceshipshooter
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2019-11-27
 labels:
   - Java
 summary: Me and two other classmates developed a classic 2D shooter as our final project for ICS 111.
