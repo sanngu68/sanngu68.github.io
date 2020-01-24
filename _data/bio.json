@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Sang Nguyen",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "picture": "https://sanngu68.github.io/images/image1.png",
+    "email": "snguyen2@hawaii.edu",
+    "phone": "808-343-9929",
+    "website": "https://sanngu68.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1669 Ahiahi Pl Apt#7D",
+      "postalCode": "96817",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,42 +17,27 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "sanngu68",
+        "url": "http://github.com/sanngu68"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Sang Nguyen",
+        "url": "https://www.linkedin.com/in/sang-nguyen-0782801a0/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "keyboard"
       ]
     },
     {
-      "name": "data mining",
+      "name": "cyber security",
       "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "user secret"
       ]
     }
   ],
