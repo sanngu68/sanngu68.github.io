@@ -1,25 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/cyberpatriotx.PNG
+title: CyberPatriot X
+permalink: projects/cyberpatriotx
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-11-03
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Windows 7
+  - Windows 10
+  - Ubuntu
+summary: Me and my STEM group participated in the CyberPatriot X competition and reached the state round.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+Starting in my freshman year of high school, I was fortunate enough to take the STEM course that was offered to me. Since it was such a great opportunity and I enjoyed the class, I continued to take the class every year throughout my time through high school. As such, in my senior year, our class was lucky to have people from DevLeague come in to teach our class about cyber security and many things about protecting our privacy online.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Alongside this, they had us participate in the CyberPatriot competition that was coming up that year and we were taught all the important steps to go through to ensure that we could get through each stage. Utilizing what we learned, we spent hours practicing for the first stage and when the actual competition started, my group did our best to progress through each stage. We made it through the first two stages but didn't progress through the State Round. Even though we didn't win, we thought that we did really well despite the groups that we competed against being much more experienced than we were. It was also during that time, I found that I really liked the whole aspect of cyber security enough to want to focus on it through college.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+About CyberPatriot: https://www.uscyberpatriot.org/Pages/About/What-is-CyberPatriot.aspx
+More information: https://www.uscyberpatriot.org/Pages/Competition/Season%20History/CyberPatriot-X.aspx
