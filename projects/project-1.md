@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ICS111proj3header.png
+image: images/ICS111proj3header.PNG
 title: Generic Spaceship Shooter
 permalink: projects/spaceshipshooter
 # All dates must be YYYY-MM-DD format!
@@ -12,7 +12,7 @@ summary: Me and two other classmates developed a classic 2D shooter as our final
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ICS111proj3.png">
+  <img class="ui image" src="../images/ICS111proj3.PNG">
 </div>
 
 For our final project for ICS 111, my group and I decided to create a classic 2D shooter that involved the player moving a ship and shooting aliens for points. There was also a restart button in case someone actually wanted to continue playing. It was an easy project to code as it utilized skills that we learned from previous projects in the class and also some things that I looked up outside of class. 
