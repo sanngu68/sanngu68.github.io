@@ -9,7 +9,7 @@ labels:
   - Communication
 ---
 
-# How to avoid looking stupid <img class="ui medium right floated rounded image" src="../images/stupidquestion.jpg">
+# How to avoid looking stupid <img class="ui medium right floated rounded image" src="../images/stupidquestio.jpg">
 To form an answer, we have to know what it is that we are trying to answer. In other words, what is the question? We're taught in school that 
 "there are no stupid questions" but that's because we rarely hear any. When you're asking a question online directed towards experts, you might want to consider thinking like you're asking the question to a professor. People don't want to answer your question if you never bothered to try anything first. Like in an interview, if you look stupid or sound stupid, you'll be passed over for someone who looks or sounds smart. Following the advice from Eric Raymond's essay, [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html), there are guidelines to be met 
 before attempting to ask the question and also when you're in the process of asking the question. Some of these guidelines include trying to find the answer first, choosing which place to ask your question, choosing how to phrase/format your question, providing explicit information, being courteous, etc. Following these simple guidelines will not only ensure that you get your answer, it also ensures that you don't look stupid in front of countless people.
