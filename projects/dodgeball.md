@@ -5,7 +5,7 @@ image: images/ICS111proj1header.png
 title: Dodgeball Java
 permalink: projects/dodgeball
 # All dates must be YYYY-MM-DD format!
-date: 2017-09-16
+date: 2018-09-16
 labels:
   - Java
 summary: My first project: A dodgeball game I developed for ICS 111.
