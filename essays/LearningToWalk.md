@@ -10,6 +10,7 @@ labels:
 ---
 
 <img class="ui medium right floated rounded image" src="../images/code.jpg">
+
 # First Steps
 We all must begin to crawl before we can learn to walk. This analogy can hold true for any skill besides just walking, especially for something as complex as software engineering. We can't jump into instantly learning an entire language or painting a masterpiece. Not everyone starts at the same time or at the same place. Some people may have learned some form of programming or engineering at an early point in their life. Some may have began to tap into their skills towards the end of their high school time. The point is that there is no shame to being later than others because at some point, everyone will reach the same goal. Until that time comes, it is essential to keep working towards that goal.
 
