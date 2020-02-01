@@ -11,7 +11,7 @@ labels:
 summary: I programmed a simple game of dodgeball in Java for ICS 111.
 ---
 
-<div class="ui small rounded images">
+<div class="ui medium right floated rounded images">
   <img class="ui image" src="../images/ICS111proj1.PNG">
 </div>
 
