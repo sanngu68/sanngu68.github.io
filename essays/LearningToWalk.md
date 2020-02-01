@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui small right floated rounded image" src="../images/code.jpg">
+<img class="ui medium right floated rounded image" src="../images/code.jpg">
 We all must begin to crawl before we can learn to walk. This analogy can hold true for any skill besides just walking, especially for something as complex as software engineering. We can't jump into instantly learning an entire language or painting a masterpiece. Not everyone starts at the same time or at the same place. Some people may have learned some form of programming or engineering at an early point in their life. Some may have began to tap into their skills towards the end of their high school time. The point is that there is no shame to being later than others because at some point, everyone will reach the same goal. Until that time comes, it is essential to keep working towards that goal.
 
 I was fortunate enough to be able to get into computers at an early age. I never really considered at that time anything other than what was in front of my eyes; the pixels forming images and videos that entertained me in my spare time. This wasn't until high school that I finally started asking questions about what those things that I saw were and how I could maybe do something like that. The place that made me start to think about these things was in my STEM class, where technology and learning intertwined in an explosive way. I was fascinated in this new world that I was introduced to. In my final year, I had the opportunity to start learning about cyber security and as I kept taking the class, I had found a horizon that I wanted to chase.
