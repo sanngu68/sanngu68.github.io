@@ -6,7 +6,9 @@ title: Such Simple Standards
 date: 2020-02-13
 labels:
   - Software Engineering
-  - Learning
+  - Javascript
+  - Coding Standards
+  - ESLint
 ---
 
 <img class="ui small left floated rounded image" src="../images/codestandard2.png">
