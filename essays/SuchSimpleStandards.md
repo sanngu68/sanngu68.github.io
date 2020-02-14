@@ -26,7 +26,7 @@ came from classes that briefly went over how you should phrase your code in cert
 it was so much easier to just type things out and not have to deal with all sorts of "red flags" along the way. After taking ICS 211, which
 introduced a similar coding standard expectation to Java in the Eclipse IDE, I was left wondering what the purpose really was to add extra guidelines
 for something so trivial. Now, my opinion has completely changed.
-<img class="ui small right floated image" src="/images/codestandard.jpg">
+<img class="ui medium right floated image" src="/images/codestandard.jpg">
 # Current Thoughts
 While it is inconvenient to have several errors in your code that are not directly related to how your code runs, I now feel that having
 a coding standard is a blessing in disguise. In some way, if everyone used the same coding standard for a language, everyone would have
