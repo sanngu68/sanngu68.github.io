@@ -37,6 +37,7 @@ Some mock up pages:
   <div class="item">Instructor Home Page</div>
   <div class="item">Instructor Course Page</div>
   <div class="item">Admin Home Page</div>
+  <div class="item">Admin Course List Page</div>
   <div class="item">Admin Course Page</div>
 </div>
 
