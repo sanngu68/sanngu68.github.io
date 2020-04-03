@@ -27,6 +27,8 @@ any income at all. Along with this, my workplace has been very busy with calls c
 about various technical issues due to everyone working and learning from home. Hopefully, people will eventually adjust to the situation
 but for now, we have to help them along with getting situated.
 
+<img class="ui medium right rounded floated image" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst1.latestly.com%2Fwp-content%2Fuploads%2F2020%2F03%2F2020-03-10.jpg&f=1&nofb=1">
+
 # Ignorance
 Despite the announcements and recommendations, I still notice that many people are not taking the situation quite as seriously as they should
 be or even denying that such a disaster is occuring in the first place. Every day, I see news about people either avoiding safety procedures or are highlighted doing various activities that risk everyone
@@ -34,7 +36,4 @@ around them. Regarding this, I feel that in a such a particular time, everyone i
 from various luxuries to benefit the community as a whole. However, it seems that all it takes to ruin these positives is just a single person.
 As such, I feel that it is beneficial to have more than just recommended procedures announced and have them actually enforced to secure
 the safety of the overall community.
-
-<img class="ui medium right rounded floated image" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fst1.latestly.com%2Fwp-content%2Fuploads%2F2020%2F03%2F2020-03-10.jpg&f=1&nofb=1">
-
 
