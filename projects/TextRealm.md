@@ -26,6 +26,7 @@ about the textbook including:
 * ISBN
 * Cost
 * Condition
+
 Otherwise, they are able to post listings regarding their textbook information, following the format as above. We also included a user rating system,
 that users can post regarding other sellers in case reliability is an issue.
 <img class="ui medium left floated rounded image" src="https://textrealm.github.io/progress-shots/Search.png">
