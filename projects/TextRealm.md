@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/LandingPageFinal.png
-title: CyberPatriot X
-permalink: projects/cyberpatriotx
+title: TextRealm
+permalink: projects/textrealm
 # All dates must be YYYY-MM-DD format!
 date: 2020-05-13
 labels:
