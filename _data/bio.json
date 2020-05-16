@@ -68,7 +68,10 @@
         "Javascript",
         "Python",
         "HTML",
-        "CSS"
+        "CSS",
+        "Semantic UI",
+        "Underscore",
+        "React"
       ]
     },
     {
@@ -77,7 +80,9 @@
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
+        "Meteor",
+        "MongoDB"
       ]
     }
   ],
@@ -102,6 +107,19 @@
       "highlights": [
         "Baking bread",
         "Providing customer service"
+      ]
+    },
+    {
+      "company": "UH Information Technology Services",
+      "position": "ITS Help Desk Consultant",
+      "website": "https://www.hawaii.edu/its/",
+      "startDate": "2020-02-12",
+      "endDate": "Present",
+      "summary": "I assist users with any issues they may have regarding UH services or with technical difficulties.",
+      "highlights": [
+        "Customer Service",
+        "IT Assistance",
+        "Various UH Services - Account Management, Laulima, etc"
       ]
     }
   ],
